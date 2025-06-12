@@ -1,0 +1,14 @@
+﻿@using Dominio
+
+@{
+    string mailCompleto = Context.Session.GetString("Mail") ?? "";
+    string rolCompleto = Context.Session.GetString("Rol") ?? "";
+
+    string soloUsuario = mailCompleto.Split('@')[0]; // Corta el mail del usuario para que solo me muestre el nombre 
+    string rolSimple = rolCompleto.Split('.').Last(); // Toma solo el nombre del rol sin tener en cuenta el Dominio. 
+}
+
+<div>
+    <h2>Hola @soloUsuario</h2>
+    <h3>Rol: @rolSimple</h3>
+</div>

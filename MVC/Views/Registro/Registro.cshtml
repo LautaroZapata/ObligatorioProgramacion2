@@ -1,0 +1,17 @@
+﻿@using Dominio
+
+<div>
+	@if (ViewBag.Error != null)
+	{
+		<div class="alert-danger">@ViewBag.Error</div>
+	}
+	<h1>REGISTRO</h1>
+	<form method="post">
+		<input type="text" placeholder="Documento" name="Documento" /> <br />
+		<input type="text" placeholder="Nombre" name="Nombre" /> <br />
+		<input type="text" placeholder="Nacionalidad" name="Nacionalidad" /> <br />
+		<input type="text" placeholder="Mail" name="Mail" /> <br />
+		<input type="text" placeholder="Password" name="Password" /> <br />
+		<button type="submit">Registrar</button>
+	</form>
+</div>

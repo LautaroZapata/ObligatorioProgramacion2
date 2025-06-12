@@ -1,0 +1,42 @@
+﻿@using Dominio;
+
+@{
+	Usuario usuario = ViewBag.Usuario as Usuario;
+}
+
+@if (ViewBag.error != null)
+{
+	<div class="alert-danger">@ViewBag.error</div>
+}
+else
+{
+	<table class="table table-bordered table-striped">
+		<thead>
+			<tr>
+				<th>Nombre</th>
+				<th>Mail</th>
+				<th>Nacionalidad</th>
+				<th>Password</th>
+				@if (usuario is Premium )
+				{
+					<th>Puntos</th>
+				}
+
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>@ViewBag.Usuario.Nombre</td>
+				<td>@ViewBag.Usuario.Mail</td>
+				<td>@ViewBag.Usuario.Nacionalidad</td>
+				<td>@ViewBag.Usuario.Password</td>
+				@if(usuario is Premium premium)
+				{
+					<td>@premium.Puntos</td>
+				}
+
+			</tr>
+		</tbody>
+	</table>
+}
+

@@ -1,0 +1,37 @@
+﻿@using Dominio;
+
+
+@if (ViewBag.Error != null)
+{
+	<div class="alert alert-danger">
+		@ViewBag.Error
+	</div>
+}
+
+else
+{
+<table class="table table-bordered table-striped">
+	<thead>
+		<tr>
+			<th>Avion</th>
+			<th>Ruta</th>
+			<th>Frecuencia</th>
+			<th>Numero de vuelo</th>
+			<th>¿Quieres ir?</th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (Vuelo unVuelo in ViewBag.Vuelo)
+		{
+			<tr>
+				<td>@unVuelo.Avion</td>
+				<td>@unVuelo.Ruta</td>
+				<td>@string.Join(",", @unVuelo.Frecuencia)</td>
+				<td>@unVuelo.NroVuelo</td>
+				<td><a href="/Pasaje/ComprarPasaje/@unVuelo.NroVuelo">Comprar</a></td>
+
+			</tr>
+		}
+	</tbody>
+</table>
+}

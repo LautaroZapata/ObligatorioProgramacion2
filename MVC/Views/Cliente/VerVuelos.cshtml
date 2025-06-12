@@ -1,0 +1,42 @@
+﻿@using Dominio;
+
+@if(ViewBag.error != null)
+{
+	<div class="alert-danger">@ViewBag.error</div>
+}
+else
+{
+	<form method="post" asp-controller="Pasaje" asp-action="FiltradoPasajes">
+
+		Ingrese Salida:<input type="text" name="IATA1" placeholder="Ingrese Codigo IATA">
+		Ingrese Llegada:<input type="text" name="IATA2" placeholder="Ingrese Codigo IATA">
+		<button type="submit">Filtrar</button>
+
+	</form>
+
+	<table class="table table-bordered table-striped">
+		<thead>
+			<tr>
+				<th>Avion</th>
+				<th>Ruta</th>
+				<th>Frecuencia</th>
+				<th>Numero de vuelo</th>
+				<th>¿Quieres ir?</th>
+			</tr>
+		</thead>
+		<tbody>
+			@foreach (Vuelo unVuelo in ViewBag.ListaVuelos)
+			{
+				<tr>
+					<td>@unVuelo.Avion</td>
+					<td>@unVuelo.Ruta</td>
+					<td>@string.Join(",", @unVuelo.Frecuencia)</td>
+					<td>@unVuelo.NroVuelo</td>
+					<td><a href="/Pasaje/ComprarPasaje/@unVuelo.NroVuelo">Comprar</a></td>
+
+				</tr>
+			}
+		</tbody>
+	</table>
+}
+

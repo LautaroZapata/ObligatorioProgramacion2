@@ -1,0 +1,55 @@
+C:\Development\OBLIGATORIO1P22025\Obligatorio\bin\Debug\net8.0\Obligatorio.exe
+C:\Development\OBLIGATORIO1P22025\Obligatorio\bin\Debug\net8.0\Obligatorio.deps.json
+C:\Development\OBLIGATORIO1P22025\Obligatorio\bin\Debug\net8.0\Obligatorio.runtimeconfig.json
+C:\Development\OBLIGATORIO1P22025\Obligatorio\bin\Debug\net8.0\Obligatorio.dll
+C:\Development\OBLIGATORIO1P22025\Obligatorio\bin\Debug\net8.0\Obligatorio.pdb
+C:\Development\OBLIGATORIO1P22025\Obligatorio\obj\Debug\net8.0\Obligatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\OBLIGATORIO1P22025\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfoInputs.cache
+C:\Development\OBLIGATORIO1P22025\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfo.cs
+C:\Development\OBLIGATORIO1P22025\Obligatorio\obj\Debug\net8.0\Obligatorio.csproj.CoreCompileInputs.cache
+C:\Development\OBLIGATORIO1P22025\Obligatorio\obj\Debug\net8.0\Obligatorio.sourcelink.json
+C:\Development\OBLIGATORIO1P22025\Obligatorio\obj\Debug\net8.0\Obligatorio.dll
+C:\Development\OBLIGATORIO1P22025\Obligatorio\obj\Debug\net8.0\refint\Obligatorio.dll
+C:\Development\OBLIGATORIO1P22025\Obligatorio\obj\Debug\net8.0\Obligatorio.pdb
+C:\Development\OBLIGATORIO1P22025\Obligatorio\obj\Debug\net8.0\Obligatorio.genruntimeconfig.cache
+C:\Development\OBLIGATORIO1P22025\Obligatorio\obj\Debug\net8.0\ref\Obligatorio.dll
+C:\Development\OBLIGATORIO1P22025\Obligatorio\bin\Debug\net8.0\Dominio.dll
+C:\Development\OBLIGATORIO1P22025\Obligatorio\bin\Debug\net8.0\Dominio.pdb
+C:\Development\OBLIGATORIO1P22025\Obligatorio\obj\Debug\net8.0\Obligatorio.csproj.AssemblyReference.cache
+C:\Development\OBLIGATORIO1P22025\Obligatorio\obj\Debug\net8.0\Obligato.47458B9C.Up2Date
+C:\Users\yovng\Downloads\OBLIGATORIO1P22025-main\OBLIGATORIO1P22025-main\Obligatorio\bin\Debug\net8.0\Obligatorio.exe
+C:\Users\yovng\Downloads\OBLIGATORIO1P22025-main\OBLIGATORIO1P22025-main\Obligatorio\bin\Debug\net8.0\Obligatorio.deps.json
+C:\Users\yovng\Downloads\OBLIGATORIO1P22025-main\OBLIGATORIO1P22025-main\Obligatorio\bin\Debug\net8.0\Obligatorio.runtimeconfig.json
+C:\Users\yovng\Downloads\OBLIGATORIO1P22025-main\OBLIGATORIO1P22025-main\Obligatorio\bin\Debug\net8.0\Obligatorio.dll
+C:\Users\yovng\Downloads\OBLIGATORIO1P22025-main\OBLIGATORIO1P22025-main\Obligatorio\bin\Debug\net8.0\Obligatorio.pdb
+C:\Users\yovng\Downloads\OBLIGATORIO1P22025-main\OBLIGATORIO1P22025-main\Obligatorio\bin\Debug\net8.0\Dominio.dll
+C:\Users\yovng\Downloads\OBLIGATORIO1P22025-main\OBLIGATORIO1P22025-main\Obligatorio\bin\Debug\net8.0\Dominio.pdb
+C:\Users\yovng\Downloads\OBLIGATORIO1P22025-main\OBLIGATORIO1P22025-main\Obligatorio\obj\Debug\net8.0\Obligatorio.csproj.AssemblyReference.cache
+C:\Users\yovng\Downloads\OBLIGATORIO1P22025-main\OBLIGATORIO1P22025-main\Obligatorio\obj\Debug\net8.0\Obligatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yovng\Downloads\OBLIGATORIO1P22025-main\OBLIGATORIO1P22025-main\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfoInputs.cache
+C:\Users\yovng\Downloads\OBLIGATORIO1P22025-main\OBLIGATORIO1P22025-main\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfo.cs
+C:\Users\yovng\Downloads\OBLIGATORIO1P22025-main\OBLIGATORIO1P22025-main\Obligatorio\obj\Debug\net8.0\Obligatorio.csproj.CoreCompileInputs.cache
+C:\Users\yovng\Downloads\OBLIGATORIO1P22025-main\OBLIGATORIO1P22025-main\Obligatorio\obj\Debug\net8.0\Obligato.47458B9C.Up2Date
+C:\Users\yovng\Downloads\OBLIGATORIO1P22025-main\OBLIGATORIO1P22025-main\Obligatorio\obj\Debug\net8.0\Obligatorio.dll
+C:\Users\yovng\Downloads\OBLIGATORIO1P22025-main\OBLIGATORIO1P22025-main\Obligatorio\obj\Debug\net8.0\refint\Obligatorio.dll
+C:\Users\yovng\Downloads\OBLIGATORIO1P22025-main\OBLIGATORIO1P22025-main\Obligatorio\obj\Debug\net8.0\Obligatorio.pdb
+C:\Users\yovng\Downloads\OBLIGATORIO1P22025-main\OBLIGATORIO1P22025-main\Obligatorio\obj\Debug\net8.0\Obligatorio.genruntimeconfig.cache
+C:\Users\yovng\Downloads\OBLIGATORIO1P22025-main\OBLIGATORIO1P22025-main\Obligatorio\obj\Debug\net8.0\ref\Obligatorio.dll
+C:\Users\yovng\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\Obligatorio\bin\Debug\net8.0\Obligatorio.exe
+C:\Users\yovng\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\Obligatorio\bin\Debug\net8.0\Obligatorio.deps.json
+C:\Users\yovng\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\Obligatorio\bin\Debug\net8.0\Obligatorio.runtimeconfig.json
+C:\Users\yovng\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\Obligatorio\bin\Debug\net8.0\Obligatorio.dll
+C:\Users\yovng\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\Obligatorio\bin\Debug\net8.0\Obligatorio.pdb
+C:\Users\yovng\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\Obligatorio\bin\Debug\net8.0\Dominio.dll
+C:\Users\yovng\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\Obligatorio\bin\Debug\net8.0\Dominio.pdb
+C:\Users\yovng\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\Obligatorio\obj\Debug\net8.0\Obligatorio.csproj.AssemblyReference.cache
+C:\Users\yovng\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\Obligatorio\obj\Debug\net8.0\Obligatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yovng\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfoInputs.cache
+C:\Users\yovng\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfo.cs
+C:\Users\yovng\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\Obligatorio\obj\Debug\net8.0\Obligatorio.csproj.CoreCompileInputs.cache
+C:\Users\yovng\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\Obligatorio\obj\Debug\net8.0\Obligato.47458B9C.Up2Date
+C:\Users\yovng\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\Obligatorio\obj\Debug\net8.0\Obligatorio.dll
+C:\Users\yovng\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\Obligatorio\obj\Debug\net8.0\refint\Obligatorio.dll
+C:\Users\yovng\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\Obligatorio\obj\Debug\net8.0\Obligatorio.pdb
+C:\Users\yovng\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\Obligatorio\obj\Debug\net8.0\Obligatorio.genruntimeconfig.cache
+C:\Users\yovng\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\Obligatorio\obj\Debug\net8.0\ref\Obligatorio.dll

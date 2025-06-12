@@ -1,0 +1,85 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MVC
+build_property.RootNamespace = MVC
+build_property.ProjectDir = C:\Users\yovng\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\MVC\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\yovng\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\MVC
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/yovng/Downloads/OBLIGATORIO2P2-main (1)/OBLIGATORIO2P2-main (1)/OBLIGATORIO2P2-main/MVC/Views/Admin/VerClientesAdm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVmVyQ2xpZW50ZXNBZG0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yovng/Downloads/OBLIGATORIO2P2-main (1)/OBLIGATORIO2P2-main (1)/OBLIGATORIO2P2-main/MVC/Views/Admin/VerPasajesAdm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVmVyUGFzYWplc0FkbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yovng/Downloads/OBLIGATORIO2P2-main (1)/OBLIGATORIO2P2-main (1)/OBLIGATORIO2P2-main/MVC/Views/Cliente/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yovng/Downloads/OBLIGATORIO2P2-main (1)/OBLIGATORIO2P2-main (1)/OBLIGATORIO2P2-main/MVC/Views/Cliente/VerPasajes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxWZXJQYXNhamVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yovng/Downloads/OBLIGATORIO2P2-main (1)/OBLIGATORIO2P2-main (1)/OBLIGATORIO2P2-main/MVC/Views/Cliente/VerPerfil.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxWZXJQZXJmaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yovng/Downloads/OBLIGATORIO2P2-main (1)/OBLIGATORIO2P2-main (1)/OBLIGATORIO2P2-main/MVC/Views/Cliente/VerVuelos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxWZXJWdWVsb3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yovng/Downloads/OBLIGATORIO2P2-main (1)/OBLIGATORIO2P2-main (1)/OBLIGATORIO2P2-main/MVC/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yovng/Downloads/OBLIGATORIO2P2-main (1)/OBLIGATORIO2P2-main (1)/OBLIGATORIO2P2-main/MVC/Views/Login/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yovng/Downloads/OBLIGATORIO2P2-main (1)/OBLIGATORIO2P2-main (1)/OBLIGATORIO2P2-main/MVC/Views/Pasaje/ComprarPasaje.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFzYWplXENvbXByYXJQYXNhamUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yovng/Downloads/OBLIGATORIO2P2-main (1)/OBLIGATORIO2P2-main (1)/OBLIGATORIO2P2-main/MVC/Views/Pasaje/FiltradoPasajes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFzYWplXEZpbHRyYWRvUGFzYWplcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yovng/Downloads/OBLIGATORIO2P2-main (1)/OBLIGATORIO2P2-main (1)/OBLIGATORIO2P2-main/MVC/Views/Registro/Registro.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0cm9cUmVnaXN0cm8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yovng/Downloads/OBLIGATORIO2P2-main (1)/OBLIGATORIO2P2-main (1)/OBLIGATORIO2P2-main/MVC/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yovng/Downloads/OBLIGATORIO2P2-main (1)/OBLIGATORIO2P2-main (1)/OBLIGATORIO2P2-main/MVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yovng/Downloads/OBLIGATORIO2P2-main (1)/OBLIGATORIO2P2-main (1)/OBLIGATORIO2P2-main/MVC/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yovng/Downloads/OBLIGATORIO2P2-main (1)/OBLIGATORIO2P2-main (1)/OBLIGATORIO2P2-main/MVC/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yovng/Downloads/OBLIGATORIO2P2-main (1)/OBLIGATORIO2P2-main (1)/OBLIGATORIO2P2-main/MVC/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-q0a04yuu0e

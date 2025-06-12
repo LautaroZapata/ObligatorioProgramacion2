@@ -1,0 +1,42 @@
+﻿@using Dominio
+
+@if(ViewBag.error != null)
+{
+	<div class="alert-danger">@ViewBag.error</div>
+}
+else
+{
+<h1>Detalle de vuelo</h1>
+
+<h7>Avion:@ViewBag.Vuelo.Avion</h7>
+<br />
+<h7>Vuelo:@ViewBag.Vuelo.NroVuelo</h7>
+<br />
+<h7>Ruta:@ViewBag.Vuelo.Ruta</h7>
+<br />
+<h7>Frecuencias</h7>
+<ul>
+	@foreach(DayOfWeek day in ViewBag.Vuelo.Frecuencia)
+	{
+		<li>
+			@day
+		</li>
+	}
+</ul>
+
+
+<form asp-action="DetalleCompra" asp-controller="Pasaje" method="post" required>
+
+	<input type="hidden" name="NroVuelo" value="@ViewBag.Vuelo.NroVuelo" />
+	<input type="date" placeholder="Ingrese una fecha" name="Fecha"/> <br />
+	<select name="equipaje">
+		@foreach(Equipaje unE in Enum.GetValues<Equipaje>())
+		{
+			<option value="@unE">@unE</option>
+		}
+	</select>
+	<br />
+	<button type="submit"> Comprar </button>
+
+</form>
+}

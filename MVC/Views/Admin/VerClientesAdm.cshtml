@@ -1,0 +1,61 @@
+﻿@using Dominio;
+
+@if (ViewBag.error != null)
+{
+	<div class="alert-danger">@ViewBag.error</div>
+}
+else
+{
+		<table class="table table-bordered table-striped">
+			<thead>
+				<tr>
+					<th>Documento</th>
+					<th>Nombre</th>
+					<th>Nacionalidad</th>
+					<th>Mail</th>
+					<th>Password</th>
+					<th>Puntos / Elegible</th>
+				<th>Editar</th>
+				<th>Confirmar Cambios</th>
+				</tr>
+			</thead>
+			<tbody>
+				@foreach (Cliente unC in ViewBag.ListaClientes)
+				{
+				<form method="post" action="/Admin/EditarCliente">
+					<tr>
+					<td>@unC.Documento</td>
+					<td>@unC.Nombre</td>
+					<td>@unC.Nacionalidad</td>
+					<td>@unC.Mail</td>
+					<input type="hidden" name="Mail" value="@unC.Mail" />
+					<td>@unC.Password</td>
+						@if (unC is Premium premium)
+						{
+						<td>@premium.Puntos</td>
+						<td>
+							<input type="number" placeholder="Ingrese puntos" name="Puntos" />
+						</td>
+						}
+						@if (unC is Ocasionales ocasional)
+						{
+						<td>@ocasional.Elegible</td>
+						<td>
+							<select name="Elegible">
+								<option value="True">True</option>
+								<option value="False">False</option>
+							</select>
+						</td>
+						}
+						<td>
+							<button type="submit">Guardar Cambios</button>
+
+						</td>
+					</tr>
+				</form>
+				}
+			</tbody>
+		</table>
+
+	
+}

@@ -1,0 +1,46 @@
+C:\Development\OBLIGATORIO1P22025\Dominio\bin\Debug\net8.0\Dominio.deps.json
+C:\Development\OBLIGATORIO1P22025\Dominio\bin\Debug\net8.0\Dominio.dll
+C:\Development\OBLIGATORIO1P22025\Dominio\bin\Debug\net8.0\Dominio.pdb
+C:\Development\OBLIGATORIO1P22025\Dominio\obj\Debug\net8.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\OBLIGATORIO1P22025\Dominio\obj\Debug\net8.0\Dominio.AssemblyInfoInputs.cache
+C:\Development\OBLIGATORIO1P22025\Dominio\obj\Debug\net8.0\Dominio.AssemblyInfo.cs
+C:\Development\OBLIGATORIO1P22025\Dominio\obj\Debug\net8.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Development\OBLIGATORIO1P22025\Dominio\obj\Debug\net8.0\Dominio.sourcelink.json
+C:\Development\OBLIGATORIO1P22025\Dominio\obj\Debug\net8.0\Dominio.dll
+C:\Development\OBLIGATORIO1P22025\Dominio\obj\Debug\net8.0\refint\Dominio.dll
+C:\Development\OBLIGATORIO1P22025\Dominio\obj\Debug\net8.0\Dominio.pdb
+C:\Development\OBLIGATORIO1P22025\Dominio\obj\Debug\net8.0\ref\Dominio.dll
+C:\Users\yovng\Downloads\OBLIGATORIO1P22025-main\OBLIGATORIO1P22025-main\Dominio\bin\Debug\net8.0\Dominio.deps.json
+C:\Users\yovng\Downloads\OBLIGATORIO1P22025-main\OBLIGATORIO1P22025-main\Dominio\bin\Debug\net8.0\Dominio.dll
+C:\Users\yovng\Downloads\OBLIGATORIO1P22025-main\OBLIGATORIO1P22025-main\Dominio\bin\Debug\net8.0\Dominio.pdb
+C:\Users\yovng\Downloads\OBLIGATORIO1P22025-main\OBLIGATORIO1P22025-main\Dominio\obj\Debug\net8.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yovng\Downloads\OBLIGATORIO1P22025-main\OBLIGATORIO1P22025-main\Dominio\obj\Debug\net8.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\yovng\Downloads\OBLIGATORIO1P22025-main\OBLIGATORIO1P22025-main\Dominio\obj\Debug\net8.0\Dominio.AssemblyInfo.cs
+C:\Users\yovng\Downloads\OBLIGATORIO1P22025-main\OBLIGATORIO1P22025-main\Dominio\obj\Debug\net8.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\yovng\Downloads\OBLIGATORIO1P22025-main\OBLIGATORIO1P22025-main\Dominio\obj\Debug\net8.0\Dominio.dll
+C:\Users\yovng\Downloads\OBLIGATORIO1P22025-main\OBLIGATORIO1P22025-main\Dominio\obj\Debug\net8.0\refint\Dominio.dll
+C:\Users\yovng\Downloads\OBLIGATORIO1P22025-main\OBLIGATORIO1P22025-main\Dominio\obj\Debug\net8.0\Dominio.pdb
+C:\Users\yovng\Downloads\OBLIGATORIO1P22025-main\OBLIGATORIO1P22025-main\Dominio\obj\Debug\net8.0\ref\Dominio.dll
+C:\Development\OBLIGATORIO2P2\Dominio\bin\Debug\net8.0\Dominio.deps.json
+C:\Development\OBLIGATORIO2P2\Dominio\bin\Debug\net8.0\Dominio.dll
+C:\Development\OBLIGATORIO2P2\Dominio\bin\Debug\net8.0\Dominio.pdb
+C:\Development\OBLIGATORIO2P2\Dominio\obj\Debug\net8.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\OBLIGATORIO2P2\Dominio\obj\Debug\net8.0\Dominio.AssemblyInfoInputs.cache
+C:\Development\OBLIGATORIO2P2\Dominio\obj\Debug\net8.0\Dominio.AssemblyInfo.cs
+C:\Development\OBLIGATORIO2P2\Dominio\obj\Debug\net8.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Development\OBLIGATORIO2P2\Dominio\obj\Debug\net8.0\Dominio.sourcelink.json
+C:\Development\OBLIGATORIO2P2\Dominio\obj\Debug\net8.0\Dominio.dll
+C:\Development\OBLIGATORIO2P2\Dominio\obj\Debug\net8.0\refint\Dominio.dll
+C:\Development\OBLIGATORIO2P2\Dominio\obj\Debug\net8.0\Dominio.pdb
+C:\Development\OBLIGATORIO2P2\Dominio\obj\Debug\net8.0\ref\Dominio.dll
+C:\Users\yovng\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\Dominio\bin\Debug\net8.0\Dominio.deps.json
+C:\Users\yovng\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\Dominio\bin\Debug\net8.0\Dominio.dll
+C:\Users\yovng\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\Dominio\bin\Debug\net8.0\Dominio.pdb
+C:\Users\yovng\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\Dominio\obj\Debug\net8.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yovng\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\Dominio\obj\Debug\net8.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\yovng\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\Dominio\obj\Debug\net8.0\Dominio.AssemblyInfo.cs
+C:\Users\yovng\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\Dominio\obj\Debug\net8.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\yovng\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\Dominio\obj\Debug\net8.0\Dominio.dll
+C:\Users\yovng\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\Dominio\obj\Debug\net8.0\refint\Dominio.dll
+C:\Users\yovng\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\Dominio\obj\Debug\net8.0\Dominio.pdb
+C:\Users\yovng\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\Dominio\obj\Debug\net8.0\ref\Dominio.dll

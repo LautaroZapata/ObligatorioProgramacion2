@@ -1,0 +1,36 @@
+﻿@using Dominio;
+
+@if (ViewBag.error != null)
+{
+	<div class="alert-danger">@ViewBag.error</div>
+}
+else
+{
+	<table class="table table-bordered table-striped">
+		<thead>
+			<tr>
+				<th>Id</th>
+				<th>Fecha</th>
+				<th>Precio</th>
+				<th>Vuelo</th>
+				<th>Equipaje</th>
+				<th>Nombre</th>
+
+			</tr>
+		</thead>
+		<tbody>
+			@foreach (Pasaje unPasaje in ViewBag.ListaPasajes)
+			{
+				<tr>
+					<td>@unPasaje.Id</td>
+					<td>@unPasaje.Fecha</td>
+					<td>@unPasaje.Precio</td>
+					<td>@unPasaje.Vuelo</td>
+					<td>@unPasaje.Equipaje</td>
+					<td>@unPasaje.Pasajero.Nombre</td>
+				</tr>
+			}
+		</tbody>
+	</table>
+}
+

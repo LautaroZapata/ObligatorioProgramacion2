@@ -1,0 +1,14 @@
+﻿@using Dominio
+
+<div>
+	@if (ViewBag.Mensaje != null)
+	{
+		<div class="alert-danger">@ViewBag.Mensaje</div>
+	}
+	<form method="post">
+		<input type="text" placeholder="Mail" name="Mail"/> <br/>
+		<input type="text" placeholder="Password" name="Password" /> <br />
+		<button type="submit">Ingresar</button>
+	</form>
+	<a href="../Registro/Registro">Registrarse</a>
+</div>

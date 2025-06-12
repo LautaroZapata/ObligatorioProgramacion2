@@ -1,0 +1,109 @@
+C:\Users\gonza\OneDrive\Escritorio\OBLIGATORIO1P22025-main\MVC\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\gonza\OneDrive\Escritorio\OBLIGATORIO1P22025-main\MVC\bin\Debug\net7.0\appsettings.json
+C:\Users\gonza\OneDrive\Escritorio\OBLIGATORIO1P22025-main\MVC\bin\Debug\net7.0\MVC.staticwebassets.runtime.json
+C:\Users\gonza\OneDrive\Escritorio\OBLIGATORIO1P22025-main\MVC\bin\Debug\net7.0\MVC.exe
+C:\Users\gonza\OneDrive\Escritorio\OBLIGATORIO1P22025-main\MVC\bin\Debug\net7.0\MVC.deps.json
+C:\Users\gonza\OneDrive\Escritorio\OBLIGATORIO1P22025-main\MVC\bin\Debug\net7.0\MVC.runtimeconfig.json
+C:\Users\gonza\OneDrive\Escritorio\OBLIGATORIO1P22025-main\MVC\bin\Debug\net7.0\MVC.dll
+C:\Users\gonza\OneDrive\Escritorio\OBLIGATORIO1P22025-main\MVC\bin\Debug\net7.0\MVC.pdb
+C:\Users\gonza\OneDrive\Escritorio\OBLIGATORIO1P22025-main\MVC\bin\Debug\net7.0\Dominio.dll
+C:\Users\gonza\OneDrive\Escritorio\OBLIGATORIO1P22025-main\MVC\bin\Debug\net7.0\Dominio.pdb
+C:\Users\gonza\OneDrive\Escritorio\OBLIGATORIO1P22025-main\MVC\obj\Debug\net7.0\MVC.csproj.AssemblyReference.cache
+C:\Users\gonza\OneDrive\Escritorio\OBLIGATORIO1P22025-main\MVC\obj\Debug\net7.0\MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gonza\OneDrive\Escritorio\OBLIGATORIO1P22025-main\MVC\obj\Debug\net7.0\MVC.AssemblyInfoInputs.cache
+C:\Users\gonza\OneDrive\Escritorio\OBLIGATORIO1P22025-main\MVC\obj\Debug\net7.0\MVC.AssemblyInfo.cs
+C:\Users\gonza\OneDrive\Escritorio\OBLIGATORIO1P22025-main\MVC\obj\Debug\net7.0\MVC.csproj.CoreCompileInputs.cache
+C:\Users\gonza\OneDrive\Escritorio\OBLIGATORIO1P22025-main\MVC\obj\Debug\net7.0\MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gonza\OneDrive\Escritorio\OBLIGATORIO1P22025-main\MVC\obj\Debug\net7.0\MVC.RazorAssemblyInfo.cache
+C:\Users\gonza\OneDrive\Escritorio\OBLIGATORIO1P22025-main\MVC\obj\Debug\net7.0\MVC.RazorAssemblyInfo.cs
+C:\Users\gonza\OneDrive\Escritorio\OBLIGATORIO1P22025-main\MVC\obj\Debug\net7.0\staticwebassets\msbuild.MVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\gonza\OneDrive\Escritorio\OBLIGATORIO1P22025-main\MVC\obj\Debug\net7.0\staticwebassets\msbuild.build.MVC.props
+C:\Users\gonza\OneDrive\Escritorio\OBLIGATORIO1P22025-main\MVC\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MVC.props
+C:\Users\gonza\OneDrive\Escritorio\OBLIGATORIO1P22025-main\MVC\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MVC.props
+C:\Users\gonza\OneDrive\Escritorio\OBLIGATORIO1P22025-main\MVC\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\gonza\OneDrive\Escritorio\OBLIGATORIO1P22025-main\MVC\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\gonza\OneDrive\Escritorio\OBLIGATORIO1P22025-main\MVC\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\gonza\OneDrive\Escritorio\OBLIGATORIO1P22025-main\MVC\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\gonza\OneDrive\Escritorio\OBLIGATORIO1P22025-main\MVC\obj\Debug\net7.0\scopedcss\bundle\MVC.styles.css
+C:\Users\gonza\OneDrive\Escritorio\OBLIGATORIO1P22025-main\MVC\obj\Debug\net7.0\scopedcss\projectbundle\MVC.bundle.scp.css
+C:\Users\gonza\OneDrive\Escritorio\OBLIGATORIO1P22025-main\MVC\obj\Debug\net7.0\MVC.csproj.CopyComplete
+C:\Users\gonza\OneDrive\Escritorio\OBLIGATORIO1P22025-main\MVC\obj\Debug\net7.0\MVC.dll
+C:\Users\gonza\OneDrive\Escritorio\OBLIGATORIO1P22025-main\MVC\obj\Debug\net7.0\refint\MVC.dll
+C:\Users\gonza\OneDrive\Escritorio\OBLIGATORIO1P22025-main\MVC\obj\Debug\net7.0\MVC.pdb
+C:\Users\gonza\OneDrive\Escritorio\OBLIGATORIO1P22025-main\MVC\obj\Debug\net7.0\MVC.genruntimeconfig.cache
+C:\Users\gonza\OneDrive\Escritorio\OBLIGATORIO1P22025-main\MVC\obj\Debug\net7.0\ref\MVC.dll
+C:\Development\OBLIGATORIO2P2\MVC\obj\Debug\net7.0\MVC.dll
+C:\Development\OBLIGATORIO2P2\MVC\obj\Debug\net7.0\refint\MVC.dll
+C:\Development\OBLIGATORIO2P2\MVC\obj\Debug\net7.0\MVC.pdb
+C:\Users\gonza\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\MVC\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\gonza\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\MVC\bin\Debug\net7.0\appsettings.json
+C:\Users\gonza\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\MVC\bin\Debug\net7.0\MVC.staticwebassets.runtime.json
+C:\Users\gonza\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\MVC\bin\Debug\net7.0\MVC.exe
+C:\Users\gonza\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\MVC\bin\Debug\net7.0\MVC.deps.json
+C:\Users\gonza\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\MVC\bin\Debug\net7.0\MVC.runtimeconfig.json
+C:\Users\gonza\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\MVC\bin\Debug\net7.0\MVC.dll
+C:\Users\gonza\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\MVC\bin\Debug\net7.0\MVC.pdb
+C:\Users\gonza\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\MVC\bin\Debug\net7.0\Dominio.dll
+C:\Users\gonza\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\MVC\bin\Debug\net7.0\Dominio.pdb
+C:\Users\gonza\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\MVC\obj\Debug\net7.0\MVC.csproj.AssemblyReference.cache
+C:\Users\gonza\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\MVC\obj\Debug\net7.0\MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gonza\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\MVC\obj\Debug\net7.0\MVC.AssemblyInfoInputs.cache
+C:\Users\gonza\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\MVC\obj\Debug\net7.0\MVC.AssemblyInfo.cs
+C:\Users\gonza\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\MVC\obj\Debug\net7.0\MVC.csproj.CoreCompileInputs.cache
+C:\Users\gonza\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\MVC\obj\Debug\net7.0\MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gonza\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\MVC\obj\Debug\net7.0\MVC.RazorAssemblyInfo.cache
+C:\Users\gonza\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\MVC\obj\Debug\net7.0\MVC.RazorAssemblyInfo.cs
+C:\Users\gonza\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\MVC\obj\Debug\net7.0\staticwebassets\msbuild.MVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\gonza\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\MVC\obj\Debug\net7.0\staticwebassets\msbuild.build.MVC.props
+C:\Users\gonza\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\MVC\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MVC.props
+C:\Users\gonza\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\MVC\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MVC.props
+C:\Users\gonza\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\MVC\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\gonza\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\MVC\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\gonza\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\MVC\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\gonza\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\MVC\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\gonza\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\MVC\obj\Debug\net7.0\scopedcss\bundle\MVC.styles.css
+C:\Users\gonza\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\MVC\obj\Debug\net7.0\scopedcss\projectbundle\MVC.bundle.scp.css
+C:\Users\gonza\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\MVC\obj\Debug\net7.0\MVC.csproj.CopyComplete
+C:\Users\gonza\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\MVC\obj\Debug\net7.0\MVC.dll
+C:\Users\gonza\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\MVC\obj\Debug\net7.0\refint\MVC.dll
+C:\Users\gonza\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\MVC\obj\Debug\net7.0\MVC.pdb
+C:\Users\gonza\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\MVC\obj\Debug\net7.0\MVC.genruntimeconfig.cache
+C:\Users\gonza\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\MVC\obj\Debug\net7.0\ref\MVC.dll
+C:\Users\yovng\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\MVC\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\yovng\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\MVC\bin\Debug\net7.0\appsettings.json
+C:\Users\yovng\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\MVC\bin\Debug\net7.0\MVC.staticwebassets.runtime.json
+C:\Users\yovng\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\MVC\bin\Debug\net7.0\MVC.staticwebassets.endpoints.json
+C:\Users\yovng\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\MVC\bin\Debug\net7.0\MVC.exe
+C:\Users\yovng\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\MVC\bin\Debug\net7.0\MVC.deps.json
+C:\Users\yovng\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\MVC\bin\Debug\net7.0\MVC.runtimeconfig.json
+C:\Users\yovng\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\MVC\bin\Debug\net7.0\MVC.dll
+C:\Users\yovng\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\MVC\bin\Debug\net7.0\MVC.pdb
+C:\Users\yovng\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\MVC\bin\Debug\net7.0\Dominio.dll
+C:\Users\yovng\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\MVC\bin\Debug\net7.0\Dominio.pdb
+C:\Users\yovng\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\MVC\obj\Debug\net7.0\MVC.csproj.AssemblyReference.cache
+C:\Users\yovng\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\MVC\obj\Debug\net7.0\MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yovng\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\MVC\obj\Debug\net7.0\MVC.AssemblyInfoInputs.cache
+C:\Users\yovng\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\MVC\obj\Debug\net7.0\MVC.AssemblyInfo.cs
+C:\Users\yovng\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\MVC\obj\Debug\net7.0\MVC.csproj.CoreCompileInputs.cache
+C:\Users\yovng\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\MVC\obj\Debug\net7.0\MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\yovng\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\MVC\obj\Debug\net7.0\MVC.RazorAssemblyInfo.cache
+C:\Users\yovng\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\MVC\obj\Debug\net7.0\MVC.RazorAssemblyInfo.cs
+C:\Users\yovng\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\MVC\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\yovng\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\MVC\obj\Debug\net7.0\scopedcss\bundle\MVC.styles.css
+C:\Users\yovng\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\MVC\obj\Debug\net7.0\scopedcss\projectbundle\MVC.bundle.scp.css
+C:\Users\yovng\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\MVC\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\yovng\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\MVC\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\yovng\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\MVC\obj\Debug\net7.0\staticwebassets.build.endpoints.json
+C:\Users\yovng\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\MVC\obj\Debug\net7.0\staticwebassets\msbuild.MVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\yovng\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\MVC\obj\Debug\net7.0\staticwebassets\msbuild.MVC.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\yovng\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\MVC\obj\Debug\net7.0\staticwebassets\msbuild.build.MVC.props
+C:\Users\yovng\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\MVC\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MVC.props
+C:\Users\yovng\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\MVC\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MVC.props
+C:\Users\yovng\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\MVC\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\yovng\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\MVC\obj\Debug\net7.0\staticwebassets.upToDateCheck.txt
+C:\Users\yovng\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\MVC\obj\Debug\net7.0\MVC.csproj.Up2Date
+C:\Users\yovng\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\MVC\obj\Debug\net7.0\MVC.dll
+C:\Users\yovng\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\MVC\obj\Debug\net7.0\refint\MVC.dll
+C:\Users\yovng\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\MVC\obj\Debug\net7.0\MVC.pdb
+C:\Users\yovng\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\MVC\obj\Debug\net7.0\MVC.genruntimeconfig.cache
+C:\Users\yovng\Downloads\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main (1)\OBLIGATORIO2P2-main\MVC\obj\Debug\net7.0\ref\MVC.dll
